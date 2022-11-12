@@ -1,6 +1,6 @@
 package com.java.assignment.day5;
 
-public class ParentClass {
+public  class ParentClass {
 
 	int age;
 	
